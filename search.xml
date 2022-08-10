@@ -1,169 +1,234 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>hello, hexo!</title>
-    <url>/2022/07/31/hello-hexo/</url>
-    <content><![CDATA[<h3 id="杂谈："><a href="#杂谈：" class="headerlink" title="杂谈："></a>杂谈：</h3><p>这不是我第一次写博客，早在几年前就用树莓派4B搭建过WordPress，在K3上折腾了一下内网穿透，原本想记录一下，但因内网穿透的域名以及访问速度非常慢，很快我就关闭了博客，树莓派4B也就在那里吃灰了。</p>
-<p>我是一个比较喜欢折腾的人，写作是最近这阵子想做的事。自从手机成为日常离不开的电子设备后，我就不怎么写文字了，可能大多数人也和我一样，常用的字也变得陌生。近期发现，自己组织语言的能力也是需要提升的，往往在交流一件事的时候发散很多，想表达的越多，就越显得啰嗦。这可能跟我一个人在学校宿舍待的那一年有关。</p>
-<p>这次采用Hexo进行写作，主要就是记录我平淡却又丰富的日常，抚平浮躁之心的同时，锻炼自己的语言组织能力。</p>
-<p>人的记忆与时间是有限的，在这”快消费“的时代，静下心来，把宝贵的时间留给自己。</p>
-<blockquote>
-<p>时代的浪花随洪流涌动，何曾有人观察过它微弱的逆流。</p>
-</blockquote>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>停滞</title>
+      <link href="/2022/08/10/%E5%81%9C%E6%BB%9E/"/>
+      <url>/2022/08/10/%E5%81%9C%E6%BB%9E/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>    <div id="aplayer-eqjPiEAW" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="26902983" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div><p>今日的感想，大多摘自于知乎。</p><p><a href="https://www.zhihu.com/question/455387812?utm_source=zhihu&utm_medium=social&utm_oi=27819925045248">大家有没有一种世界走向末日的感觉？ - 知乎 (zhihu.com)</a></p><p>自2020年初，疫情开始，我辞掉了北京的工作，只身一人来到南方创业，差不多2年的时间一直保持在很忙碌的状态，结果显而易见，又回到最初的起点。自以为努力过就会有收获，到后来才明白我不过是一颗韭菜罢了。在开始在网上看到很多负面信息，亲身接触很多事情后，“焦虑”就开始了，这种焦虑是独处时的不安，没有方向的感觉。很多事情朋友们都说慢慢来，会好的。我不敢反驳他们的观点，也不想把一些灰暗的事情讲给他们听，因为，每个人的经历有所不同。</p><p>结尾引用群友的话：</p><blockquote><p>“可是最近我明白了，我不用悲伤，因为我只能这样生活。所以，不要焦急，因为根本没有必要拿自己的人生和别人比较。”</p></blockquote>]]></content>
+      
+      
       <categories>
-        <category>日常</category>
+          
+          <category> 日常 </category>
+          
       </categories>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>并不是排斥硬件设计</title>
-    <url>/2022/08/01/%E5%B9%B6%E4%B8%8D%E6%98%AF%E6%8E%92%E6%96%A5%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1/</url>
-    <content><![CDATA[<h3 id="杂谈："><a href="#杂谈：" class="headerlink" title="杂谈："></a>杂谈：</h3><p>今天调试了一天的电路和程序，也没有解决遇到的问题…</p>
-<p>解决问题需要理清思路，才能以最快的速度找到解决办法，恰好我缺乏这方面的能力。今天碰到的问题不是很复杂，单片机串口通信异常，我将程序烧录了无数遍，却一次都没有拿示波器检测一下波形，即使我知道这是不对的。</p>
-<p>硬件问题大多表现为”玄学“现象，我用ST-LINK把编写好的程序烧录进最小系统板，程序没有任何问题，而烧录进我设计的电路板中，程序就无法正常收发。</p>
-<h3 id="尝试过的方法："><a href="#尝试过的方法：" class="headerlink" title="尝试过的方法："></a>尝试过的方法：</h3><ol>
-<li>将程序烧录至稳定的开发板，发现程序正常！</li>
-<li>我设计的板子上有RS232芯片，所以跳接了两根线到TTL调试板无法正常通信。</li>
-<li>更换了电路板芯片，依然无法解决。</li>
-<li>改了N次程序烧录验证…</li>
-</ol>
-<h3 id="未尝试的方法："><a href="#未尝试的方法：" class="headerlink" title="未尝试的方法："></a>未尝试的方法：</h3><ol>
-<li>焊接一块新的板子做测试，如果有问题，那么就是硬件设计存在缺陷。</li>
-</ol>
-<p>我接触过很多同行业的人，大家都遇到过”玄学“问题，在设计这一版PCB我花费了两周时间，其实要不了这么久的，设计纯通信类的电路与控制类的电路方法截然不同，前者需考虑高速信号的一致性，后者则需要考虑电压、电流。不过两者的共同点是需要好的设计工具：立创EDA、ad、pads、allegro，还需要布局、布线，考虑EMC等等…我缺乏的经验无法通过搜索引擎找到答案，另外还需要写程序等等…这些工作混在一起会让我感觉到乱，即使昨晚睡眠很好的我依然没有理清思路。</p>
-<blockquote>
-<p>我暂时不知道怎么办…</p>
-</blockquote>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>小更</title>
+      <link href="/2022/08/09/%E5%B0%8F%E6%9B%B4/"/>
+      <url>/2022/08/09/%E5%B0%8F%E6%9B%B4/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>    <div id="aplayer-XFvnTkuV" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="1366216050" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div><p>今天看到一则消息，听说《乐队的夏天3》已经开始招募了。</p><p><img src="/2022/08/09/%E5%B0%8F%E6%9B%B4/Snipaste_2022-08-09_23-06-56.png" alt="示例"></p><p>记得初中时，我非常喜欢饶舌（说唱），这种音乐的表达方式比较新颖，那时，天天晚上都会挂在YY上听他们freestyle。可自从《中国有嘻哈》爆火后，这类小众风格的音乐被资本入侵，好的作品就越来越少，基本上很多年轻人以为嘴快就很酷，却忽略掉了音乐追纯粹的本质，“悦耳”，我个人觉得嘻哈音乐应该要节奏感很强、曲和词都要让人觉得顺畅，而不是为了押韵而去押韵。</p><p>没有乐队的日子，已经熬得太久了！年纪上去了就发现自己骨子里的那个劲和摇滚很像，摇滚更加纯粹，更加成熟，更直接！好的作品会让很多理想主义者泪流满面，例如崔健、李志，当然每个听者都有自己内心的解读。</p><blockquote><p>音乐是艺术表达的一种方式，人的情绪如同音乐不同的频率，有的作品往往需要特定的情绪下才会去欣赏</p></blockquote>]]></content>
+      
+      
       <categories>
-        <category>工作</category>
+          
+          <category> 日常 </category>
+          
       </categories>
-      <tags>
-        <tag>硬件设计</tag>
-        <tag>嵌入式</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>遇见“历史性时刻”</title>
-    <url>/2022/08/02/%E9%81%87%E8%A7%81%E2%80%9C%E5%8E%86%E5%8F%B2%E6%80%A7%E6%97%B6%E5%88%BB%E2%80%9C/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>
-    <div id="aplayer-itoPyuAf" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="518649151" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
-    ></div>
-
-<p>这首音乐是午睡时搜索的，我已经记不清当年看《星际穿越》后的感受，但这首歌我记得很深。</p>
-<p>信息发达的当今，围绕“佩洛西串台”此事件的信息如同爆炸般铺天盖地。这件事让我想起两个人，第一个人是我的爷爷，记得小时候经常见他看海峡两岸节目，第二个人是艾跃进老师，艾公是一位刚正不阿的无产阶级战士。他们那个年代的人深受毛泽东思想熏陶，思想也很“单纯”。</p>
-<p>最近我在看《三体》，与他们那代人并不相同的是我们这代人可以更便捷的接触新的知识，所以我把这类包括我在内的共鸣的情绪归类为“民族主义”，但是这件事情过于复杂，它包含着中华民族伟大复兴，包含着经济，世界地位等重要因素，所以我无法客观评价。</p>
-<p>作为普通人，衷心希望祖国能通过今晚一战证明世界地位，待后续注入并驱动强大的经济能力，让人民更加富裕。也希望有生之年能够见到我国的载人航天事业以及核聚变EAST能取得巨大突破，展示出一个大国所做出的更加有意义一面！</p>
-<blockquote>
-<p>每天给文章增加一个新的功能来自于灵感，并非刻意。</p>
-</blockquote>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>周末愉快！</title>
+      <link href="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/"/>
+      <url>/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>    <div id="aplayer-VnpQKaDA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="423015580" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div><p>嘻嘻，昨天鸽了，因为昨晚和朋友聊项目聊到大半夜，昨天写了一个很长的博客被我删了。</p><p>附上昨天做的菜&amp;今天修的灯：</p><p><img src="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/1.jpg" alt="示例"></p><p><img src="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/2.jpg" alt="示例"></p><p><img src="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/3.jpg" alt="示例"></p><p><img src="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/4.jpg" alt="示例"></p><blockquote><p>最近有点忙…</p></blockquote>]]></content>
+      
+      
       <categories>
-        <category>日常</category>
+          
+          <category> 日常 </category>
+          
       </categories>
-      <tags>
-        <tag>历史</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第一次</title>
-    <url>/2022/08/03/%E7%AC%AC%E4%B8%80%E6%AC%A1/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>
-    <div id="aplayer-zfznHPdr" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="1350658589" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
-    ></div>
-
-<p>昨晚发生的事很快就无感了，不知道是否有人与我一样觉得互联网留下的记忆非常短暂。</p>
-<p>今天看了一集B站纪录片《人生第一次》，倒序观看。富含人生哲理的影视作品是我最爱观看的，这类作品往往会把一个小人物的一生变为一段缩影呈现在荧幕前，它很现实的告诉我人生其实并没有那么漫长，偶尔遇到恼心的小事并没有那么重要。</p>
-<blockquote>
-<p>管它兔兔还是神神，还是神兔二象性，背后都是鲜活的生命，他会有他该走完的一生，虽说我们的终点并不相同。</p>
-</blockquote>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>灵感往往需要找寻</title>
+      <link href="/2022/08/05/%E7%81%B5%E6%84%9F%E5%BE%80%E5%BE%80%E9%9C%80%E8%A6%81%E6%89%BE%E5%AF%BB/"/>
+      <url>/2022/08/05/%E7%81%B5%E6%84%9F%E5%BE%80%E5%BE%80%E9%9C%80%E8%A6%81%E6%89%BE%E5%AF%BB/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="杂谈："><a href="#杂谈：" class="headerlink" title="杂谈："></a>杂谈：</h3><p>今天帮一个曾经合作过的人搭建一个网站，没想到折腾完已是深夜了。</p><p>这几天发愁的是电路板应该如何设计，没想到晚上打开闲鱼却找到了灵感，真不错！睡了！明日在更。</p>]]></content>
+      
+      
       <categories>
-        <category>日常</category>
+          
+          <category> 日常 </category>
+          
       </categories>
-      <tags>
-        <tag>思想</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>七夕</title>
-    <url>/2022/08/04/%E4%B8%83%E5%A4%95/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>
-    <div id="aplayer-qMufupGN" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="28953350" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
-    ></div>
-
-<blockquote>
-<p>今日无事…</p>
-</blockquote>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>七夕</title>
+      <link href="/2022/08/04/%E4%B8%83%E5%A4%95/"/>
+      <url>/2022/08/04/%E4%B8%83%E5%A4%95/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>    <div id="aplayer-qMufupGN" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="28953350" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div><blockquote><p>今日无事…</p></blockquote>]]></content>
+      
+      
       <categories>
-        <category>日常</category>
+          
+          <category> 日常 </category>
+          
       </categories>
-      <tags>
-        <tag>节日</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>灵感往往需要找寻</title>
-    <url>/2022/08/05/%E7%81%B5%E6%84%9F%E5%BE%80%E5%BE%80%E9%9C%80%E8%A6%81%E6%89%BE%E5%AF%BB/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="杂谈："><a href="#杂谈：" class="headerlink" title="杂谈："></a>杂谈：</h3><p>今天帮一个曾经合作过的人搭建一个网站，没想到折腾完已是深夜了。</p>
-<p>这几天发愁的是电路板应该如何设计，没想到晚上打开闲鱼却找到了灵感，真不错！睡了！明日在更。</p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 节日 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一次</title>
+      <link href="/2022/08/03/%E7%AC%AC%E4%B8%80%E6%AC%A1/"/>
+      <url>/2022/08/03/%E7%AC%AC%E4%B8%80%E6%AC%A1/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>    <div id="aplayer-zfznHPdr" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1350658589" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div><p>昨晚发生的事很快就无感了，不知道是否有人与我一样觉得互联网留下的记忆非常短暂。</p><p>今天看了一集B站纪录片《人生第一次》，倒序观看。富含人生哲理的影视作品是我最爱观看的，这类作品往往会把一个小人物的一生变为一段缩影呈现在荧幕前，它很现实的告诉我人生其实并没有那么漫长，偶尔遇到恼心的小事并没有那么重要。</p><blockquote><p>管它兔兔还是神神，还是神兔二象性，背后都是鲜活的生命，他会有他该走完的一生，虽说我们的终点并不相同。</p></blockquote>]]></content>
+      
+      
       <categories>
-        <category>日常</category>
+          
+          <category> 日常 </category>
+          
       </categories>
-      <tags>
-        <tag>杂谈</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>周末愉快！</title>
-    <url>/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>
-    <div id="aplayer-VnpQKaDA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="423015580" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
-
-<p>嘻嘻，昨天鸽了，因为昨晚和朋友聊项目聊到大半夜，昨天写了一个很长的博客被我删了。</p>
-<p>附上昨天做的菜&amp;今天修的灯：</p>
-<p><img src="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/1.jpg" alt="示例"></p>
-<p><img src="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/2.jpg" alt="示例"></p>
-<p><img src="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/3.jpg" alt="示例"></p>
-<p><img src="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/4.jpg" alt="示例"></p>
-<blockquote>
-<p>最近有点忙…</p>
-</blockquote>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 思想 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>遇见“历史性时刻”</title>
+      <link href="/2022/08/02/%E9%81%87%E8%A7%81%E2%80%9C%E5%8E%86%E5%8F%B2%E6%80%A7%E6%97%B6%E5%88%BB%E2%80%9C/"/>
+      <url>/2022/08/02/%E9%81%87%E8%A7%81%E2%80%9C%E5%8E%86%E5%8F%B2%E6%80%A7%E6%97%B6%E5%88%BB%E2%80%9C/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>    <div id="aplayer-itoPyuAf" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="518649151" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div><p>这首音乐是午睡时搜索的，我已经记不清当年看《星际穿越》后的感受，但这首歌我记得很深。</p><p>信息发达的当今，围绕“佩洛西串台”此事件的信息如同爆炸般铺天盖地。这件事让我想起两个人，第一个人是我的爷爷，记得小时候经常见他看海峡两岸节目，第二个人是艾跃进老师，艾公是一位刚正不阿的无产阶级战士。他们那个年代的人深受毛泽东思想熏陶，思想也很“单纯”。</p><p>最近我在看《三体》，与他们那代人并不相同的是我们这代人可以更便捷的接触新的知识，所以我把这类包括我在内的共鸣的情绪归类为“民族主义”，但是这件事情过于复杂，它包含着中华民族伟大复兴，包含着经济，世界地位等重要因素，所以我无法客观评价。</p><p>作为普通人，衷心希望祖国能通过今晚一战证明世界地位，待后续注入并驱动强大的经济能力，让人民更加富裕。也希望有生之年能够见到我国的载人航天事业以及核聚变EAST能取得巨大突破，展示出一个大国所做出的更加有意义一面！</p><blockquote><p>每天给文章增加一个新的功能来自于灵感，并非刻意。</p></blockquote>]]></content>
+      
+      
       <categories>
-        <category>日常</category>
+          
+          <category> 日常 </category>
+          
       </categories>
-      <tags>
-        <tag>杂谈</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>小更</title>
-    <url>/2022/08/09/%E5%B0%8F%E6%9B%B4/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>
-    <div id="aplayer-XFvnTkuV" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="1366216050" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
-
-<p>今天看到一则消息，听说《乐队的夏天3》已经开始招募了。</p>
-<p><img src="/2022/08/09/%E5%B0%8F%E6%9B%B4/Snipaste_2022-08-09_23-06-56.png" alt="示例"></p>
-<p>记得初中时，我非常喜欢饶舌（说唱），这种音乐的表达方式比较新颖，那时，天天晚上都会挂在YY上听他们freestyle。可自从《中国有嘻哈》爆火后，这类小众风格的音乐被资本入侵，好的作品就越来越少，基本上很多年轻人以为嘴快就很酷，却忽略掉了音乐追纯粹的本质，“悦耳”，我个人觉得嘻哈音乐应该要节奏感很强、曲和词都要让人觉得顺畅，而不是为了押韵而去押韵。</p>
-<p>没有乐队的日子，已经熬得太久了！年纪上去了就发现自己骨子里的那个劲和摇滚很像，摇滚更加纯粹，更加成熟，更直接！好的作品会让很多理想主义者泪流满面，例如崔健、李志，当然每个听者都有自己内心的解读。</p>
-<blockquote>
-<p>音乐是艺术表达的一种方式，人的情绪如同音乐不同的频率，有的作品往往需要特定的情绪下才会去欣赏</p>
-</blockquote>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 历史 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>并不是排斥硬件设计</title>
+      <link href="/2022/08/01/%E5%B9%B6%E4%B8%8D%E6%98%AF%E6%8E%92%E6%96%A5%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
+      <url>/2022/08/01/%E5%B9%B6%E4%B8%8D%E6%98%AF%E6%8E%92%E6%96%A5%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1/</url>
+      
+        <content type="html"><![CDATA[<h3 id="杂谈："><a href="#杂谈：" class="headerlink" title="杂谈："></a>杂谈：</h3><p>今天调试了一天的电路和程序，也没有解决遇到的问题…</p><p>解决问题需要理清思路，才能以最快的速度找到解决办法，恰好我缺乏这方面的能力。今天碰到的问题不是很复杂，单片机串口通信异常，我将程序烧录了无数遍，却一次都没有拿示波器检测一下波形，即使我知道这是不对的。</p><p>硬件问题大多表现为”玄学“现象，我用ST-LINK把编写好的程序烧录进最小系统板，程序没有任何问题，而烧录进我设计的电路板中，程序就无法正常收发。</p><h3 id="尝试过的方法："><a href="#尝试过的方法：" class="headerlink" title="尝试过的方法："></a>尝试过的方法：</h3><ol><li>将程序烧录至稳定的开发板，发现程序正常！</li><li>我设计的板子上有RS232芯片，所以跳接了两根线到TTL调试板无法正常通信。</li><li>更换了电路板芯片，依然无法解决。</li><li>改了N次程序烧录验证…</li></ol><h3 id="未尝试的方法："><a href="#未尝试的方法：" class="headerlink" title="未尝试的方法："></a>未尝试的方法：</h3><ol><li>焊接一块新的板子做测试，如果有问题，那么就是硬件设计存在缺陷。</li></ol><p>我接触过很多同行业的人，大家都遇到过”玄学“问题，在设计这一版PCB我花费了两周时间，其实要不了这么久的，设计纯通信类的电路与控制类的电路方法截然不同，前者需考虑高速信号的一致性，后者则需要考虑电压、电流。不过两者的共同点是需要好的设计工具：立创EDA、ad、pads、allegro，还需要布局、布线，考虑EMC等等…我缺乏的经验无法通过搜索引擎找到答案，另外还需要写程序等等…这些工作混在一起会让我感觉到乱，即使昨晚睡眠很好的我依然没有理清思路。</p><blockquote><p>我暂时不知道怎么办…</p></blockquote>]]></content>
+      
+      
       <categories>
-        <category>日常</category>
+          
+          <category> 工作 </category>
+          
       </categories>
-      <tags>
-        <tag>杂谈</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 硬件设计 </tag>
+            
+            <tag> 嵌入式 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hello, hexo!</title>
+      <link href="/2022/07/31/hello-hexo/"/>
+      <url>/2022/07/31/hello-hexo/</url>
+      
+        <content type="html"><![CDATA[<h3 id="杂谈："><a href="#杂谈：" class="headerlink" title="杂谈："></a>杂谈：</h3><p>这不是我第一次写博客，早在几年前就用树莓派4B搭建过WordPress，在K3上折腾了一下内网穿透，原本想记录一下，但因内网穿透的域名以及访问速度非常慢，很快我就关闭了博客，树莓派4B也就在那里吃灰了。</p><p>我是一个比较喜欢折腾的人，写作是最近这阵子想做的事。自从手机成为日常离不开的电子设备后，我就不怎么写文字了，可能大多数人也和我一样，常用的字也变得陌生。近期发现，自己组织语言的能力也是需要提升的，往往在交流一件事的时候发散很多，想表达的越多，就越显得啰嗦。这可能跟我一个人在学校宿舍待的那一年有关。</p><p>这次采用Hexo进行写作，主要就是记录我平淡却又丰富的日常，抚平浮躁之心的同时，锻炼自己的语言组织能力。</p><p>人的记忆与时间是有限的，在这”快消费“的时代，静下心来，把宝贵的时间留给自己。</p><blockquote><p>时代的浪花随洪流涌动，何曾有人观察过它微弱的逆流。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日常 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
