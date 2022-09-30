@@ -1,357 +1,334 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>废弃OneNote，改用语雀</title>
-      <link href="/2022/09/27/%E5%BA%9F%E5%BC%83OneNote%EF%BC%8C%E6%94%B9%E7%94%A8%E8%AF%AD%E9%9B%80/"/>
-      <url>/2022/09/27/%E5%BA%9F%E5%BC%83OneNote%EF%BC%8C%E6%94%B9%E7%94%A8%E8%AF%AD%E9%9B%80/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="正文："><a href="#正文：" class="headerlink" title="正文："></a>正文：</h3><p>一直以来，我都是用OneNote作为笔记软件，在平头哥外包的那段日子，我接触到了它。</p><span id="more"></span> <p><a href="https://www.yuque.com/">语雀，构建你的数字花园</a><br>不得不说，相比于OneNote，语雀功能更加丰富。<br>思维导图、代码块、UML图、公式、流程图、画板等等…<br>内部还有很多内置的模板方便使用，关键是零广告，界面美观！<br>方便高效学习、工作的工具，一款在线笔记软件在数字化时代几乎是必备的。</p><p>这是OneNote的界面<br><img src="/2022/09/27/%E5%BA%9F%E5%BC%83OneNote%EF%BC%8C%E6%94%B9%E7%94%A8%E8%AF%AD%E9%9B%80/Snipaste_2022-09-27_22-56-14.png" alt="示例"></p><p>这是语雀<br><img src="/2022/09/27/%E5%BA%9F%E5%BC%83OneNote%EF%BC%8C%E6%94%B9%E7%94%A8%E8%AF%AD%E9%9B%80/Snipaste_2022-09-27_22-58-04.png" alt="示例"></p><p>另外，分享一下语雀的一些模板<br><a href="https://www.yuque.com/docs/share/5636a5fd-6d1c-45f8-8538-01fa59282e8f#">旅行计划</a><br><a href="https://www.yuque.com/docs/share/f7fa9fe0-3acc-4d58-a226-ae354210ca53#">程序员最爱的功能</a></p><blockquote><p>好的工具不仅能提升效率，并且能在做事情前梳理好逻辑与思维框架。</p></blockquote>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 杂谈 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>I am back！</title>
-      <link href="/2022/09/15/I-am-back%EF%BC%81/"/>
-      <url>/2022/09/15/I-am-back%EF%BC%81/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>    <div id="aplayer-AWtUYIXT" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="1951103657" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div><p>很久没有写博客了，甚是怀念写东西时的感觉，至于我为什么回来，是因为最近搞了个新家伙…</p><span id="more"></span> <p><img src="/2022/09/15/I-am-back%EF%BC%81/1.jpg" alt="示例"><br>这是我最近新配的一台电脑，总共花费了2843.82元，我准备拿它来赚钱了，今晚就在安装软件。</p><p>说说我最近倒腾的事吧，最开始用N1盒子Docker挂了一个aliyundrive-webdav容器，然后通过kodi播放器搞了个简单的影院系统，我拿它看了很多剧，有《壮志凌云2》、《黑话律师》、《说出你的愿望》以及还没追完的《绝命毒师》等等，不得不说比在线观看的效果好太多了。回了趟老家，中秋节又去了金华的乡下玩了三天，这是中秋节晚上拍的月亮<br><img src="/2022/09/15/I-am-back%EF%BC%81/2.jpg" alt="示例"><br>回去之前就买了这台电脑的所有配件，我回到杭州的那天夜晚就把它组装好了。</p><p>心态方面的转变是我变的不那么焦虑了，我已经开始远离那些有的没的新闻，知乎回答，哦对了，最近我还打算减肥，嗯！那就先从不喝饮料做起！</p><blockquote><p>Good night！</p></blockquote>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>hello, hexo!</title>
+    <url>/2022/07/31/hello-hexo/</url>
+    <content><![CDATA[<h3 id="杂谈："><a href="#杂谈：" class="headerlink" title="杂谈："></a>杂谈：</h3><p>这不是我第一次写博客，早在几年前就用树莓派4B搭建过WordPress，在K3上折腾了一下内网穿透，原本想记录一下，但因内网穿透的域名以及访问速度非常慢，很快我就关闭了博客，树莓派4B也就在那里吃灰了。</p>
+<p>我是一个比较喜欢折腾的人，写作是最近这阵子想做的事。自从手机成为日常离不开的电子设备后，我就不怎么写文字了，可能大多数人也和我一样，常用的字也变得陌生。近期发现，自己组织语言的能力也是需要提升的，往往在交流一件事的时候发散很多，想表达的越多，就越显得啰嗦。这可能跟我一个人在学校宿舍待的那一年有关。</p>
+<p>这次采用Hexo进行写作，主要就是记录我平淡却又丰富的日常，抚平浮躁之心的同时，锻炼自己的语言组织能力。</p>
+<p>人的记忆与时间是有限的，在这”快消费“的时代，静下心来，把宝贵的时间留给自己。</p>
+<blockquote>
+<p>时代的浪花随洪流涌动，何曾有人观察过它微弱的逆流。</p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> 日常 </category>
-          
+        <category>日常</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 杂谈 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>清醒的人最荒唐</title>
-      <link href="/2022/08/30/%E6%B8%85%E9%86%92%E7%9A%84%E4%BA%BA%E6%9C%80%E8%8D%92%E5%94%90/"/>
-      <url>/2022/08/30/%E6%B8%85%E9%86%92%E7%9A%84%E4%BA%BA%E6%9C%80%E8%8D%92%E5%94%90/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>    <div id="aplayer-emQGKdJV" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="569200213" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div><p>不是一个很愉快的夜晚，前几天回家后发生的事很糟心，没想到会越闹越大。下班回到家时，发现门口的物品丢失了，于是联系了房东帮忙问问看，明天再调监控看一下。</p><p>晚上，奶奶跟我聊了聊天，还是催婚，我只能应和。因为回家发生的事，我爸发微信跟我聊天，女朋友跟我说了一句：“他怎么不找别人说，找你说！”，我回复了一句“那是我爸，他不找我说找谁说呢？”我们的语气都不是很好，她生气了。</p><p>很多事，很多事，随着年龄的上涨，积压的越来越多，我已经够烦心的了，真的…选择了错误的路耽误了人生中宝贵的时间，就会成为大家口中的失败者。但是我的内心一直很坚强的对自己说：“还有时间…还有时间”，也许，从一开始我一路对下去，今天的局面也不至于会这样吧…</p><p>可我真的很着急，经济形势不好，我没办法看清楚未来的路。每当我急的时候，总是会点上一根烟劝自己冷静下来，只能劝自己很多事受点委屈没什么，慢慢来，走上正确的道路一切还是有盼头的。</p><p>默默的努力吧！</p><blockquote><p>郭德纲：“早成者未必有成，晚达者未必不达”</p></blockquote>]]></content>
-      
-      
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>并不是排斥硬件设计</title>
+    <url>/2022/08/01/%E5%B9%B6%E4%B8%8D%E6%98%AF%E6%8E%92%E6%96%A5%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1/</url>
+    <content><![CDATA[<h3 id="杂谈："><a href="#杂谈：" class="headerlink" title="杂谈："></a>杂谈：</h3><p>今天调试了一天的电路和程序，也没有解决遇到的问题…</p>
+<p>解决问题需要理清思路，才能以最快的速度找到解决办法，恰好我缺乏这方面的能力。今天碰到的问题不是很复杂，单片机串口通信异常，我将程序烧录了无数遍，却一次都没有拿示波器检测一下波形，即使我知道这是不对的。</p>
+<p>硬件问题大多表现为”玄学“现象，我用ST-LINK把编写好的程序烧录进最小系统板，程序没有任何问题，而烧录进我设计的电路板中，程序就无法正常收发。</p>
+<h3 id="尝试过的方法："><a href="#尝试过的方法：" class="headerlink" title="尝试过的方法："></a>尝试过的方法：</h3><ol>
+<li>将程序烧录至稳定的开发板，发现程序正常！</li>
+<li>我设计的板子上有RS232芯片，所以跳接了两根线到TTL调试板无法正常通信。</li>
+<li>更换了电路板芯片，依然无法解决。</li>
+<li>改了N次程序烧录验证…</li>
+</ol>
+<h3 id="未尝试的方法："><a href="#未尝试的方法：" class="headerlink" title="未尝试的方法："></a>未尝试的方法：</h3><ol>
+<li>焊接一块新的板子做测试，如果有问题，那么就是硬件设计存在缺陷。</li>
+</ol>
+<p>我接触过很多同行业的人，大家都遇到过”玄学“问题，在设计这一版PCB我花费了两周时间，其实要不了这么久的，设计纯通信类的电路与控制类的电路方法截然不同，前者需考虑高速信号的一致性，后者则需要考虑电压、电流。不过两者的共同点是需要好的设计工具：立创EDA、ad、pads、allegro，还需要布局、布线，考虑EMC等等…我缺乏的经验无法通过搜索引擎找到答案，另外还需要写程序等等…这些工作混在一起会让我感觉到乱，即使昨晚睡眠很好的我依然没有理清思路。</p>
+<blockquote>
+<p>我暂时不知道怎么办…</p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> 日常 </category>
-          
+        <category>工作</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 杂谈 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>unt403a刷机折腾kodi</title>
-      <link href="/2022/08/22/unt403a%E5%88%B7%E6%9C%BA%E6%8A%98%E8%85%BEkodi/"/>
-      <url>/2022/08/22/unt403a%E5%88%B7%E6%9C%BA%E6%8A%98%E8%85%BEkodi/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="正文："><a href="#正文：" class="headerlink" title="正文："></a>正文：</h3><p>在家折腾了好几天的盒子，还是以失败告终…还是等双USB线到再刷机吧！<strong>2022.08.22</strong></p><p>嘿！这是8月22号晚发的博客，终于在今晚更新了。</p><span id="more"></span> <p>按照惯例，先听音乐</p><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>    <div id="aplayer-TVwuYmUe" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="555142" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div><p><img src="/2022/08/22/unt403a%E5%88%B7%E6%9C%BA%E6%8A%98%E8%85%BEkodi/1.jpg" alt="示例"><br>就是这个移动盒子，型号是unt403a，网上几乎没有浙江移动的刷机包，我下载了很多都没办法刷机，都是卡刷包。<br>后来找了某宝专业人员，用了他们的系统刷了固件才成功，一开始我没有双头USB的刷机线就自己动手焊接了一个，可是不能用，只能在网上买一条。<br><img src="/2022/08/22/unt403a%E5%88%B7%E6%9C%BA%E6%8A%98%E8%85%BEkodi/2.jpg" alt="示例"><br>功夫不负有心人，刷机线到货后，我就开始倒腾刷机了，非常兴奋的点击了软件上的更新按钮，结果！我家跳闸了，当时突然就慌了，甚至怀疑是不是因为上次厕所那个灯的线我没有接好，导致漏电跳闸了，最后房东找了电工来看了一下才发现是空开老化了，后来换了一个。等了很久最后移动盒子终于被我刷鸿蒙系统了，哈哈哈。<br><img src="/2022/08/22/unt403a%E5%88%B7%E6%9C%BA%E6%8A%98%E8%85%BEkodi/3.jpg" alt="示例"></p><blockquote></blockquote>]]></content>
-      
-      
+      <tags>
+        <tag>硬件设计</tag>
+        <tag>嵌入式</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>遇见“历史性时刻”</title>
+    <url>/2022/08/02/%E9%81%87%E8%A7%81%E2%80%9C%E5%8E%86%E5%8F%B2%E6%80%A7%E6%97%B6%E5%88%BB%E2%80%9C/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>
+    <div id="aplayer-itoPyuAf" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="518649151" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div>
+
+<p>这首音乐是午睡时搜索的，我已经记不清当年看《星际穿越》后的感受，但这首歌我记得很深。</p>
+<p>信息发达的当今，围绕“佩洛西串台”此事件的信息如同爆炸般铺天盖地。这件事让我想起两个人，第一个人是我的爷爷，记得小时候经常见他看海峡两岸节目，第二个人是艾跃进老师，艾公是一位刚正不阿的无产阶级战士。他们那个年代的人深受毛泽东思想熏陶，思想也很“单纯”。</p>
+<p>最近我在看《三体》，与他们那代人并不相同的是我们这代人可以更便捷的接触新的知识，所以我把这类包括我在内的共鸣的情绪归类为“民族主义”，但是这件事情过于复杂，它包含着中华民族伟大复兴，包含着经济，世界地位等重要因素，所以我无法客观评价。</p>
+<p>作为普通人，衷心希望祖国能通过今晚一战证明世界地位，待后续注入并驱动强大的经济能力，让人民更加富裕。也希望有生之年能够见到我国的载人航天事业以及核聚变EAST能取得巨大突破，展示出一个大国所做出的更加有意义一面！</p>
+<blockquote>
+<p>每天给文章增加一个新的功能来自于灵感，并非刻意。</p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> 日常 </category>
-          
+        <category>日常</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 阿里云盘 </tag>
-            
-            <tag> kodi </tag>
-            
-            <tag> unt403a </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Shell终端(ssh客户端)工具推荐</title>
-      <link href="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/"/>
-      <url>/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="正文："><a href="#正文：" class="headerlink" title="正文："></a>正文：</h3><p>我一直热衷于找一些好用的工具，Shell终端类工具有很多，下面是我接触和使用过的。</p><p><strong>1.PuTTY</strong></p><p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/1.png" alt="示例"></p><p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/2.png" alt="示例"></p><p>PuTTY是一款很老的软件了，它的优点就是体积小，开源免费，非常好用！</p><p>下载地址：<a href="https://www.putty.org/">Download PuTTY - a free SSH and telnet client for Windows</a></p><p><strong>2.Xshell（商用付费）</strong></p><p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/3.png" alt="示例"></p><p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/4.png" alt="示例"></p><p>Xshell也是一款很不错的工具，有很强大的功能，只不过它是收费的，免费只给学校和个人授权使用，有一些功能无法使用。</p><p>下载地址：<a href="https://www.netsarang.com/en/xshell/">XSHELL - The Industry&#39;s Most Powerful SSH Client (netsarang.com)</a></p><p><strong>3.Mobaxterm</strong></p><p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/5.png" alt="示例"></p><p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/6.png" alt="示例"></p><p>Mobaxterm是一款免费开源的工具，有一段时间我很喜欢用它，因为它有很多功能，自带FTP非常好用，甚至上面还有游戏可以玩。</p><p>下载地址：<a href="https://mobaxterm.mobatek.net/download-home-edition.html">MobaXterm Xserver with SSH, telnet, RDP, VNC and X11 - Home Edition (mobatek.net)</a></p><p><strong>4.SecureCRT（商用付费）</strong></p><p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/7.png" alt="示例"></p><p>这个软件我接触过一次，不太熟悉，据说很强大，只不过是付费的。</p><p>下载地址：<a href="https://www.vandyke.com/products/securecrt/">SecureCRT - The rock-solid Telnet and SSH client for Windows, Mac, and Linux (vandyke.com)</a></p><p><strong>5.FinalShell</strong></p><p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/8.png" alt="示例"></p><p>FinalShell据说是很适合运维，我没使用过，是因为之前听说这款软件是Java语言开发的比较吃内存，速度没那么快，但是我也只是听说而已。</p><p>下载地址：<a href="http://www.hostbuf.com/">SSH工具 SSH客户端 (hostbuf.com)</a></p><p><strong>6.Termius（苹果用户推荐）</strong></p><p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/9.png" alt="示例"></p><p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/10.png" alt="示例"></p><p>我第一次见到这款软件是前公司领导在使用，当时感觉全绿色的界面有点像黑客的那种滚动的代码，非常酷炫有没有？这款软件是支持云端同步的，所以需要登录使用。</p><p>下载地址：<a href="https://termius.com/">Termius - SSH platform for Mobile and Desktop</a></p><p><strong>7.NxShell（推荐）</strong></p><p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/11.png" alt="示例"></p><p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/12.png" alt="示例"></p><p>这款软件是群里的一个老哥推荐的，国人开发的，在GitHub上开源，简介的页面我第一次看就觉得很舒服，也是我现在主要在用的。</p><p>下载地址：<a href="https://nxshell.github.io/">NxShell, You Next Shell!</a></p><blockquote><p>今天的分享到此结束啦！时间不早了，我要去休息了。</p></blockquote>]]></content>
-      
-      
+      <tags>
+        <tag>历史</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第一次</title>
+    <url>/2022/08/03/%E7%AC%AC%E4%B8%80%E6%AC%A1/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>
+    <div id="aplayer-zfznHPdr" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="1350658589" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div>
+
+<p>昨晚发生的事很快就无感了，不知道是否有人与我一样觉得互联网留下的记忆非常短暂。</p>
+<p>今天看了一集B站纪录片《人生第一次》，倒序观看。富含人生哲理的影视作品是我最爱观看的，这类作品往往会把一个小人物的一生变为一段缩影呈现在荧幕前，它很现实的告诉我人生其实并没有那么漫长，偶尔遇到恼心的小事并没有那么重要。</p>
+<blockquote>
+<p>管它兔兔还是神神，还是神兔二象性，背后都是鲜活的生命，他会有他该走完的一生，虽说我们的终点并不相同。</p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> 日常 </category>
-          
+        <category>日常</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 工具推荐 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>停滞</title>
-      <link href="/2022/08/10/%E5%81%9C%E6%BB%9E/"/>
-      <url>/2022/08/10/%E5%81%9C%E6%BB%9E/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>    <div id="aplayer-eqjPiEAW" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="26902983" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div><p>今日的感想，大多摘自于知乎。</p><p><a href="https://www.zhihu.com/question/455387812?utm_source=zhihu&utm_medium=social&utm_oi=27819925045248">大家有没有一种世界走向末日的感觉？ - 知乎 (zhihu.com)</a></p><p>自2020年初，疫情开始，我辞掉了北京的工作，只身一人来到南方创业，差不多2年的时间一直保持在很忙碌的状态，结果显而易见，又回到最初的起点。自以为努力过就会有收获，到后来才明白我不过是一颗韭菜罢了。在开始在网上看到很多负面信息，亲身接触很多事情后，“焦虑”就开始了，这种焦虑是独处时的不安，没有方向的感觉。很多事情朋友们都说慢慢来，会好的。我不敢反驳他们的观点，也不想把一些灰暗的事情讲给他们听，因为，每个人的经历有所不同。</p><p>结尾引用群友的话：</p><blockquote><p>“可是最近我明白了，我不用悲伤，因为我只能这样生活。所以，不要焦急，因为根本没有必要拿自己的人生和别人比较。”</p></blockquote>]]></content>
-      
-      
+      <tags>
+        <tag>思想</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>七夕</title>
+    <url>/2022/08/04/%E4%B8%83%E5%A4%95/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>
+    <div id="aplayer-qMufupGN" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="28953350" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div>
+
+<blockquote>
+<p>今日无事…</p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> 日常 </category>
-          
+        <category>日常</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 杂谈 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>小更</title>
-      <link href="/2022/08/09/%E5%B0%8F%E6%9B%B4/"/>
-      <url>/2022/08/09/%E5%B0%8F%E6%9B%B4/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>    <div id="aplayer-XFvnTkuV" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="1366216050" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div><p>今天看到一则消息，听说《乐队的夏天3》已经开始招募了。</p><p><img src="/2022/08/09/%E5%B0%8F%E6%9B%B4/Snipaste_2022-08-09_23-06-56.png" alt="示例"></p><p>记得初中时，我非常喜欢饶舌（说唱），这种音乐的表达方式比较新颖，那时，天天晚上都会挂在YY上听他们freestyle。可自从《中国有嘻哈》爆火后，这类小众风格的音乐被资本入侵，好的作品就越来越少，基本上很多年轻人以为嘴快就很酷，却忽略掉了音乐追纯粹的本质，“悦耳”，我个人觉得嘻哈音乐应该要节奏感很强、曲和词都要让人觉得顺畅，而不是为了押韵而去押韵。</p><p>没有乐队的日子，已经熬得太久了！年纪上去了就发现自己骨子里的那个劲和摇滚很像，摇滚更加纯粹，更加成熟，更直接！好的作品会让很多理想主义者泪流满面，例如崔健、李志，当然每个听者都有自己内心的解读。</p><blockquote><p>音乐是艺术表达的一种方式，人的情绪如同音乐不同的频率，有的作品往往需要特定的情绪下才会去欣赏</p></blockquote>]]></content>
-      
-      
+      <tags>
+        <tag>节日</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>灵感往往需要找寻</title>
+    <url>/2022/08/05/%E7%81%B5%E6%84%9F%E5%BE%80%E5%BE%80%E9%9C%80%E8%A6%81%E6%89%BE%E5%AF%BB/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="杂谈："><a href="#杂谈：" class="headerlink" title="杂谈："></a>杂谈：</h3><p>今天帮一个曾经合作过的人搭建一个网站，没想到折腾完已是深夜了。</p>
+<p>这几天发愁的是电路板应该如何设计，没想到晚上打开闲鱼却找到了灵感，真不错！睡了！明日在更。</p>
+]]></content>
       <categories>
-          
-          <category> 日常 </category>
-          
+        <category>日常</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 杂谈 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>周末愉快！</title>
-      <link href="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/"/>
-      <url>/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>    <div id="aplayer-VnpQKaDA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="423015580" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div><p>嘻嘻，昨天鸽了，因为昨晚和朋友聊项目聊到大半夜，昨天写了一个很长的博客被我删了。</p><p>附上昨天做的菜&amp;今天修的灯：</p><p><img src="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/1.jpg" alt="示例"></p><p><img src="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/2.jpg" alt="示例"></p><p><img src="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/3.jpg" alt="示例"></p><p><img src="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/4.jpg" alt="示例"></p><blockquote><p>最近有点忙…</p></blockquote>]]></content>
-      
-      
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>周末愉快！</title>
+    <url>/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>
+    <div id="aplayer-VnpQKaDA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="423015580" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
+
+<p>嘻嘻，昨天鸽了，因为昨晚和朋友聊项目聊到大半夜，昨天写了一个很长的博客被我删了。</p>
+<p>附上昨天做的菜&amp;今天修的灯：</p>
+<p><img src="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/1.jpg" alt="示例"></p>
+<p><img src="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/2.jpg" alt="示例"></p>
+<p><img src="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/3.jpg" alt="示例"></p>
+<p><img src="/2022/08/07/%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%EF%BC%81/4.jpg" alt="示例"></p>
+<blockquote>
+<p>最近有点忙…</p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> 日常 </category>
-          
+        <category>日常</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 杂谈 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>灵感往往需要找寻</title>
-      <link href="/2022/08/05/%E7%81%B5%E6%84%9F%E5%BE%80%E5%BE%80%E9%9C%80%E8%A6%81%E6%89%BE%E5%AF%BB/"/>
-      <url>/2022/08/05/%E7%81%B5%E6%84%9F%E5%BE%80%E5%BE%80%E9%9C%80%E8%A6%81%E6%89%BE%E5%AF%BB/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="杂谈："><a href="#杂谈：" class="headerlink" title="杂谈："></a>杂谈：</h3><p>今天帮一个曾经合作过的人搭建一个网站，没想到折腾完已是深夜了。</p><p>这几天发愁的是电路板应该如何设计，没想到晚上打开闲鱼却找到了灵感，真不错！睡了！明日在更。</p>]]></content>
-      
-      
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>小更</title>
+    <url>/2022/08/09/%E5%B0%8F%E6%9B%B4/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>
+    <div id="aplayer-XFvnTkuV" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="1366216050" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
+
+<p>今天看到一则消息，听说《乐队的夏天3》已经开始招募了。</p>
+<p><img src="/2022/08/09/%E5%B0%8F%E6%9B%B4/Snipaste_2022-08-09_23-06-56.png" alt="示例"></p>
+<p>记得初中时，我非常喜欢饶舌（说唱），这种音乐的表达方式比较新颖，那时，天天晚上都会挂在YY上听他们freestyle。可自从《中国有嘻哈》爆火后，这类小众风格的音乐被资本入侵，好的作品就越来越少，基本上很多年轻人以为嘴快就很酷，却忽略掉了音乐追纯粹的本质，“悦耳”，我个人觉得嘻哈音乐应该要节奏感很强、曲和词都要让人觉得顺畅，而不是为了押韵而去押韵。</p>
+<p>没有乐队的日子，已经熬得太久了！年纪上去了就发现自己骨子里的那个劲和摇滚很像，摇滚更加纯粹，更加成熟，更直接！好的作品会让很多理想主义者泪流满面，例如崔健、李志，当然每个听者都有自己内心的解读。</p>
+<blockquote>
+<p>音乐是艺术表达的一种方式，人的情绪如同音乐不同的频率，有的作品往往需要特定的情绪下才会去欣赏</p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> 日常 </category>
-          
+        <category>日常</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 杂谈 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>七夕</title>
-      <link href="/2022/08/04/%E4%B8%83%E5%A4%95/"/>
-      <url>/2022/08/04/%E4%B8%83%E5%A4%95/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>    <div id="aplayer-qMufupGN" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="28953350" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div><blockquote><p>今日无事…</p></blockquote>]]></content>
-      
-      
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>停滞</title>
+    <url>/2022/08/10/%E5%81%9C%E6%BB%9E/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>
+    <div id="aplayer-eqjPiEAW" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="26902983" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
+
+<p>今日的感想，大多摘自于知乎。</p>
+<p><a href="https://www.zhihu.com/question/455387812?utm_source=zhihu&utm_medium=social&utm_oi=27819925045248">大家有没有一种世界走向末日的感觉？ - 知乎 (zhihu.com)</a></p>
+<p>自2020年初，疫情开始，我辞掉了北京的工作，只身一人来到南方创业，差不多2年的时间一直保持在很忙碌的状态，结果显而易见，又回到最初的起点。自以为努力过就会有收获，到后来才明白我不过是一颗韭菜罢了。在开始在网上看到很多负面信息，亲身接触很多事情后，“焦虑”就开始了，这种焦虑是独处时的不安，没有方向的感觉。很多事情朋友们都说慢慢来，会好的。我不敢反驳他们的观点，也不想把一些灰暗的事情讲给他们听，因为，每个人的经历有所不同。</p>
+<p>结尾引用群友的话：</p>
+<blockquote>
+<p>“可是最近我明白了，我不用悲伤，因为我只能这样生活。所以，不要焦急，因为根本没有必要拿自己的人生和别人比较。”</p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> 日常 </category>
-          
+        <category>日常</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 节日 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第一次</title>
-      <link href="/2022/08/03/%E7%AC%AC%E4%B8%80%E6%AC%A1/"/>
-      <url>/2022/08/03/%E7%AC%AC%E4%B8%80%E6%AC%A1/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>    <div id="aplayer-zfznHPdr" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1350658589" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div><p>昨晚发生的事很快就无感了，不知道是否有人与我一样觉得互联网留下的记忆非常短暂。</p><p>今天看了一集B站纪录片《人生第一次》，倒序观看。富含人生哲理的影视作品是我最爱观看的，这类作品往往会把一个小人物的一生变为一段缩影呈现在荧幕前，它很现实的告诉我人生其实并没有那么漫长，偶尔遇到恼心的小事并没有那么重要。</p><blockquote><p>管它兔兔还是神神，还是神兔二象性，背后都是鲜活的生命，他会有他该走完的一生，虽说我们的终点并不相同。</p></blockquote>]]></content>
-      
-      
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Shell终端(ssh客户端)工具推荐</title>
+    <url>/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="正文："><a href="#正文：" class="headerlink" title="正文："></a>正文：</h3><p>我一直热衷于找一些好用的工具，Shell终端类工具有很多，下面是我接触和使用过的。</p>
+<p><strong>1.PuTTY</strong></p>
+<p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/1.png" alt="示例"></p>
+<p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/2.png" alt="示例"></p>
+<p>PuTTY是一款很老的软件了，它的优点就是体积小，开源免费，非常好用！</p>
+<p>下载地址：<a href="https://www.putty.org/">Download PuTTY - a free SSH and telnet client for Windows</a></p>
+<p><strong>2.Xshell（商用付费）</strong></p>
+<p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/3.png" alt="示例"></p>
+<p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/4.png" alt="示例"></p>
+<p>Xshell也是一款很不错的工具，有很强大的功能，只不过它是收费的，免费只给学校和个人授权使用，有一些功能无法使用。</p>
+<p>下载地址：<a href="https://www.netsarang.com/en/xshell/">XSHELL - The Industry&#39;s Most Powerful SSH Client (netsarang.com)</a></p>
+<p><strong>3.Mobaxterm</strong></p>
+<p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/5.png" alt="示例"></p>
+<p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/6.png" alt="示例"></p>
+<p>Mobaxterm是一款免费开源的工具，有一段时间我很喜欢用它，因为它有很多功能，自带FTP非常好用，甚至上面还有游戏可以玩。</p>
+<p>下载地址：<a href="https://mobaxterm.mobatek.net/download-home-edition.html">MobaXterm Xserver with SSH, telnet, RDP, VNC and X11 - Home Edition (mobatek.net)</a></p>
+<p><strong>4.SecureCRT（商用付费）</strong></p>
+<p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/7.png" alt="示例"></p>
+<p>这个软件我接触过一次，不太熟悉，据说很强大，只不过是付费的。</p>
+<p>下载地址：<a href="https://www.vandyke.com/products/securecrt/">SecureCRT - The rock-solid Telnet and SSH client for Windows, Mac, and Linux (vandyke.com)</a></p>
+<p><strong>5.FinalShell</strong></p>
+<p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/8.png" alt="示例"></p>
+<p>FinalShell据说是很适合运维，我没使用过，是因为之前听说这款软件是Java语言开发的比较吃内存，速度没那么快，但是我也只是听说而已。</p>
+<p>下载地址：<a href="http://www.hostbuf.com/">SSH工具 SSH客户端 (hostbuf.com)</a></p>
+<p><strong>6.Termius（苹果用户推荐）</strong></p>
+<p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/9.png" alt="示例"></p>
+<p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/10.png" alt="示例"></p>
+<p>我第一次见到这款软件是前公司领导在使用，当时感觉全绿色的界面有点像黑客的那种滚动的代码，非常酷炫有没有？这款软件是支持云端同步的，所以需要登录使用。</p>
+<p>下载地址：<a href="https://termius.com/">Termius - SSH platform for Mobile and Desktop</a></p>
+<p><strong>7.NxShell（推荐）</strong></p>
+<p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/11.png" alt="示例"></p>
+<p><img src="/2022/08/17/Shell%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/12.png" alt="示例"></p>
+<p>这款软件是群里的一个老哥推荐的，国人开发的，在GitHub上开源，简介的页面我第一次看就觉得很舒服，也是我现在主要在用的。</p>
+<p>下载地址：<a href="https://nxshell.github.io/">NxShell, You Next Shell!</a></p>
+<blockquote>
+<p>今天的分享到此结束啦！时间不早了，我要去休息了。</p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> 日常 </category>
-          
+        <category>日常</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 思想 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>遇见“历史性时刻”</title>
-      <link href="/2022/08/02/%E9%81%87%E8%A7%81%E2%80%9C%E5%8E%86%E5%8F%B2%E6%80%A7%E6%97%B6%E5%88%BB%E2%80%9C/"/>
-      <url>/2022/08/02/%E9%81%87%E8%A7%81%E2%80%9C%E5%8E%86%E5%8F%B2%E6%80%A7%E6%97%B6%E5%88%BB%E2%80%9C/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>    <div id="aplayer-itoPyuAf" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="518649151" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div><p>这首音乐是午睡时搜索的，我已经记不清当年看《星际穿越》后的感受，但这首歌我记得很深。</p><p>信息发达的当今，围绕“佩洛西串台”此事件的信息如同爆炸般铺天盖地。这件事让我想起两个人，第一个人是我的爷爷，记得小时候经常见他看海峡两岸节目，第二个人是艾跃进老师，艾公是一位刚正不阿的无产阶级战士。他们那个年代的人深受毛泽东思想熏陶，思想也很“单纯”。</p><p>最近我在看《三体》，与他们那代人并不相同的是我们这代人可以更便捷的接触新的知识，所以我把这类包括我在内的共鸣的情绪归类为“民族主义”，但是这件事情过于复杂，它包含着中华民族伟大复兴，包含着经济，世界地位等重要因素，所以我无法客观评价。</p><p>作为普通人，衷心希望祖国能通过今晚一战证明世界地位，待后续注入并驱动强大的经济能力，让人民更加富裕。也希望有生之年能够见到我国的载人航天事业以及核聚变EAST能取得巨大突破，展示出一个大国所做出的更加有意义一面！</p><blockquote><p>每天给文章增加一个新的功能来自于灵感，并非刻意。</p></blockquote>]]></content>
-      
-      
+      <tags>
+        <tag>工具推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>unt403a刷机折腾kodi</title>
+    <url>/2022/08/22/unt403a%E5%88%B7%E6%9C%BA%E6%8A%98%E8%85%BEkodi/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="正文："><a href="#正文：" class="headerlink" title="正文："></a>正文：</h3><p>在家折腾了好几天的盒子，还是以失败告终…还是等双USB线到再刷机吧！<strong>2022.09.30更新~</strong></p>
+<p>嘿！这是8月22号晚发的博客，终于在今晚更新了。</p>
+<span id="more"></span> 
+<p>按照惯例，先听音乐</p>
+<h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>
+    <div id="aplayer-FfDqGNJV" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="555142" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
+<p><img src="/2022/08/22/unt403a%E5%88%B7%E6%9C%BA%E6%8A%98%E8%85%BEkodi/1.jpg" alt="示例"><br>为什么要刷机呢？因为盒子原生系统是移动定制的，只有IPTV可以看，年轻人又不爱看这些，想看一些剧就得开会员，关键是开了会员也没几个好剧可以看这是最苦恼的，哪怕是奈飞、迪士尼也一样，去年我也折腾过，想了想还是破解了装个开源播放器吧！</p>
+<p>倒腾了很久的就是这个破移动盒子，型号是unt403a，网上几乎没有浙江移动的刷机包，我下载了很多都没办法刷机，都是卡刷包。<br>后来找了某宝专业人员，用了他们的系统刷了固件才成功，一开始我没有双头USB的刷机线就自己动手焊接了一个，可是不能用，只能在网上买一条。<br><img src="/2022/08/22/unt403a%E5%88%B7%E6%9C%BA%E6%8A%98%E8%85%BEkodi/2.jpg" alt="示例"><br>功夫不负有心人，刷机线到货后，我就开始倒腾刷机了，非常兴奋的点击了软件上的更新按钮，结果！我家跳闸了，当时突然就慌了，甚至怀疑是不是因为上次厕所那个灯的线我没有接好导致漏电跳闸了，最后房东找了电工来看了一下才发现是空开老化了，后来换了一个。来电后花了20分钟时间，移动盒子终于被我刷鸿蒙系统了，哈哈哈。<br><img src="/2022/08/22/unt403a%E5%88%B7%E6%9C%BA%E6%8A%98%E8%85%BEkodi/3.jpg" alt="示例"><br>我注册了一个阿里云盘，使用GitHub上大佬的aliyundrive-webdav插件运行在软路由上，<strong>这里强调一点，最好是运行在docker中</strong>。<br><a href="https://github.com/messense/aliyundrive-webdav">GitHub - aliyundrive-webdav</a><br><img src="/2022/08/22/unt403a%E5%88%B7%E6%9C%BA%E6%8A%98%E8%85%BEkodi/4.png" alt="示例"><br>就像图上这样，设置完成后，阿里云盘里的内容直接可以通过kodi访问了。<br><a href="http://www.kodiplayer.cn/course/2961.html">kodi设置教程</a><br>上面的文章只是一部分教程，kodi电影和电视剧的存放要按照一下格式存放才能使用搜刮器。</p>
+<ul>
+<li>阿里云盘创建一个命名为<strong>电影</strong>的文件夹，电影只需要保存完整的名字就好了。</li>
+<li>同上，创建一个名为<strong>剧集</strong>的文件夹，电视剧的保存每个电视剧需要单独的文件夹，S01E01，其中S01就代表第一季，E01就代表第一集。</li>
+</ul>
+<p>最后，终于设置好了，kodi的中文设置方法呀，字幕插件，iptv玩法其中这些网上有很多视频，图文教程。</p>
+<p>电影、电视剧、美剧韩剧在哪里找呢？<br><a href="https://imyshare.com/article/35/">iMyShare - 神秘的热心网友</a><br><a href="https://www.upyunso.com/">UP云搜</a><br><a href="https://movie.douban.com/chart">豆瓣电影排行榜</a><br>通过豆瓣找到一些你想看的剧，然后通过上面两个链接搜到资源一键保存到你的云盘，然后通过kodi就可以直接观看。<br><img src="/2022/08/22/unt403a%E5%88%B7%E6%9C%BA%E6%8A%98%E8%85%BEkodi/5.jpg" alt="示例"><br>这段时间搞好了以后，我追了很多很多剧，不得不说，阿汤哥确实很帅！</p>
+<p>推荐的剧：</p>
+<ul>
+<li>绝命毒师 - 美剧</li>
+<li>风骚律师 - 美剧</li>
+<li>壮志凌云1-2 - 美电影</li>
+<li>黑话律师 - 韩剧</li>
+<li>说出你的愿望 - 韩剧</li>
+</ul>
+]]></content>
       <categories>
-          
-          <category> 日常 </category>
-          
+        <category>日常</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 历史 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>并不是排斥硬件设计</title>
-      <link href="/2022/08/01/%E5%B9%B6%E4%B8%8D%E6%98%AF%E6%8E%92%E6%96%A5%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
-      <url>/2022/08/01/%E5%B9%B6%E4%B8%8D%E6%98%AF%E6%8E%92%E6%96%A5%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1/</url>
-      
-        <content type="html"><![CDATA[<h3 id="杂谈："><a href="#杂谈：" class="headerlink" title="杂谈："></a>杂谈：</h3><p>今天调试了一天的电路和程序，也没有解决遇到的问题…</p><p>解决问题需要理清思路，才能以最快的速度找到解决办法，恰好我缺乏这方面的能力。今天碰到的问题不是很复杂，单片机串口通信异常，我将程序烧录了无数遍，却一次都没有拿示波器检测一下波形，即使我知道这是不对的。</p><p>硬件问题大多表现为”玄学“现象，我用ST-LINK把编写好的程序烧录进最小系统板，程序没有任何问题，而烧录进我设计的电路板中，程序就无法正常收发。</p><h3 id="尝试过的方法："><a href="#尝试过的方法：" class="headerlink" title="尝试过的方法："></a>尝试过的方法：</h3><ol><li>将程序烧录至稳定的开发板，发现程序正常！</li><li>我设计的板子上有RS232芯片，所以跳接了两根线到TTL调试板无法正常通信。</li><li>更换了电路板芯片，依然无法解决。</li><li>改了N次程序烧录验证…</li></ol><h3 id="未尝试的方法："><a href="#未尝试的方法：" class="headerlink" title="未尝试的方法："></a>未尝试的方法：</h3><ol><li>焊接一块新的板子做测试，如果有问题，那么就是硬件设计存在缺陷。</li></ol><p>我接触过很多同行业的人，大家都遇到过”玄学“问题，在设计这一版PCB我花费了两周时间，其实要不了这么久的，设计纯通信类的电路与控制类的电路方法截然不同，前者需考虑高速信号的一致性，后者则需要考虑电压、电流。不过两者的共同点是需要好的设计工具：立创EDA、ad、pads、allegro，还需要布局、布线，考虑EMC等等…我缺乏的经验无法通过搜索引擎找到答案，另外还需要写程序等等…这些工作混在一起会让我感觉到乱，即使昨晚睡眠很好的我依然没有理清思路。</p><blockquote><p>我暂时不知道怎么办…</p></blockquote>]]></content>
-      
-      
+      <tags>
+        <tag>阿里云盘</tag>
+        <tag>kodi</tag>
+        <tag>unt403a</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>清醒的人最荒唐</title>
+    <url>/2022/08/30/%E6%B8%85%E9%86%92%E7%9A%84%E4%BA%BA%E6%9C%80%E8%8D%92%E5%94%90/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>
+    <div id="aplayer-emQGKdJV" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="569200213" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
+
+<p>不是一个很愉快的夜晚，前几天回家后发生的事很糟心，没想到会越闹越大。下班回到家时，发现门口的物品丢失了，于是联系了房东帮忙问问看，明天再调监控看一下。</p>
+<p>晚上，奶奶跟我聊了聊天，还是催婚，我只能应和。因为回家发生的事，我爸发微信跟我聊天，女朋友跟我说了一句：“他怎么不找别人说，找你说！”，我回复了一句“那是我爸，他不找我说找谁说呢？”我们的语气都不是很好，她生气了。</p>
+<p>很多事，很多事，随着年龄的上涨，积压的越来越多，我已经够烦心的了，真的…选择了错误的路耽误了人生中宝贵的时间，就会成为大家口中的失败者。但是我的内心一直很坚强的对自己说：“还有时间…还有时间”，也许，从一开始我一路对下去，今天的局面也不至于会这样吧…</p>
+<p>可我真的很着急，经济形势不好，我没办法看清楚未来的路。每当我急的时候，总是会点上一根烟劝自己冷静下来，只能劝自己很多事受点委屈没什么，慢慢来，走上正确的道路一切还是有盼头的。</p>
+<p>默默的努力吧！</p>
+<blockquote>
+<p>郭德纲：“早成者未必有成，晚达者未必不达”</p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> 工作 </category>
-          
+        <category>日常</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 硬件设计 </tag>
-            
-            <tag> 嵌入式 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>hello, hexo!</title>
-      <link href="/2022/07/31/hello-hexo/"/>
-      <url>/2022/07/31/hello-hexo/</url>
-      
-        <content type="html"><![CDATA[<h3 id="杂谈："><a href="#杂谈：" class="headerlink" title="杂谈："></a>杂谈：</h3><p>这不是我第一次写博客，早在几年前就用树莓派4B搭建过WordPress，在K3上折腾了一下内网穿透，原本想记录一下，但因内网穿透的域名以及访问速度非常慢，很快我就关闭了博客，树莓派4B也就在那里吃灰了。</p><p>我是一个比较喜欢折腾的人，写作是最近这阵子想做的事。自从手机成为日常离不开的电子设备后，我就不怎么写文字了，可能大多数人也和我一样，常用的字也变得陌生。近期发现，自己组织语言的能力也是需要提升的，往往在交流一件事的时候发散很多，想表达的越多，就越显得啰嗦。这可能跟我一个人在学校宿舍待的那一年有关。</p><p>这次采用Hexo进行写作，主要就是记录我平淡却又丰富的日常，抚平浮躁之心的同时，锻炼自己的语言组织能力。</p><p>人的记忆与时间是有限的，在这”快消费“的时代，静下心来，把宝贵的时间留给自己。</p><blockquote><p>时代的浪花随洪流涌动，何曾有人观察过它微弱的逆流。</p></blockquote>]]></content>
-      
-      
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>I am back！</title>
+    <url>/2022/09/15/I-am-back%EF%BC%81/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="Listen："><a href="#Listen：" class="headerlink" title="Listen："></a>Listen：</h3>
+    <div id="aplayer-AWtUYIXT" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="1951103657" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
+
+<p>很久没有写博客了，甚是怀念写东西时的感觉，至于我为什么回来，是因为最近搞了个新家伙…</p>
+<span id="more"></span> 
+<p><img src="/2022/09/15/I-am-back%EF%BC%81/1.jpg" alt="示例"><br>这是我最近新配的一台电脑，总共花费了2843.82元，我准备拿它来赚钱了，今晚就在安装软件。</p>
+<p>说说我最近倒腾的事吧，最开始用N1盒子Docker挂了一个aliyundrive-webdav容器，然后通过kodi播放器搞了个简单的影院系统，我拿它看了很多剧，有《壮志凌云2》、《黑话律师》、《说出你的愿望》以及还没追完的《绝命毒师》等等，不得不说比在线观看的效果好太多了。回了趟老家，中秋节又去了金华的乡下玩了三天，这是中秋节晚上拍的月亮<br><img src="/2022/09/15/I-am-back%EF%BC%81/2.jpg" alt="示例"><br>回去之前就买了这台电脑的所有配件，我回到杭州的那天夜晚就把它组装好了。</p>
+<p>心态方面的转变是我变的不那么焦虑了，我已经开始远离那些有的没的新闻，知乎回答，哦对了，最近我还打算减肥，嗯！那就先从不喝饮料做起！</p>
+<blockquote>
+<p>Good night！</p>
+</blockquote>
+]]></content>
       <categories>
-          
-          <category> 日常 </category>
-          
+        <category>日常</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> hexo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>废弃OneNote，改用语雀</title>
+    <url>/2022/09/27/%E5%BA%9F%E5%BC%83OneNote%EF%BC%8C%E6%94%B9%E7%94%A8%E8%AF%AD%E9%9B%80/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="正文："><a href="#正文：" class="headerlink" title="正文："></a>正文：</h3><p>一直以来，我都是用OneNote作为笔记软件，在平头哥外包的那段日子，我接触到了它。</p>
+<span id="more"></span> 
+<p><a href="https://www.yuque.com/">语雀，构建你的数字花园</a><br>不得不说，相比于OneNote，语雀功能更加丰富。<br>思维导图、代码块、UML图、公式、流程图、画板等等…<br>内部还有很多内置的模板方便使用，关键是零广告，界面美观！<br>方便高效学习、工作的工具，一款在线笔记软件在数字化时代几乎是必备的。</p>
+<p>这是OneNote的界面<br><img src="/2022/09/27/%E5%BA%9F%E5%BC%83OneNote%EF%BC%8C%E6%94%B9%E7%94%A8%E8%AF%AD%E9%9B%80/Snipaste_2022-09-27_22-56-14.png" alt="示例"></p>
+<p>这是语雀<br><img src="/2022/09/27/%E5%BA%9F%E5%BC%83OneNote%EF%BC%8C%E6%94%B9%E7%94%A8%E8%AF%AD%E9%9B%80/Snipaste_2022-09-27_22-58-04.png" alt="示例"></p>
+<p>另外，分享一下语雀的一些模板<br><a href="https://www.yuque.com/docs/share/5636a5fd-6d1c-45f8-8538-01fa59282e8f#">旅行计划</a><br><a href="https://www.yuque.com/docs/share/f7fa9fe0-3acc-4d58-a226-ae354210ca53#">程序员最爱的功能</a></p>
+<blockquote>
+<p>好的工具不仅能提升效率，并且能在做事情前梳理好逻辑与思维框架。</p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
 </search>
